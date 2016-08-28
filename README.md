@@ -24,10 +24,10 @@ chmod 0700 install.sh
 ./install.sh
 Uninstallation
 
-wget http://www.inetbase.com/scripts/ddos/uninstall.ddos
+wget https://github.com/venoodkhatuva12/D-Dos-Script/blob/master/uninstall.sh
 
-chmod 0700 uninstall.ddos
-./uninstall.ddos
+chmod 0700 uninstall.sh
+./uninstall.sh
 Script to check No of connected ip’s.
 
 sh /usr/local/ddos/ddos.sh
