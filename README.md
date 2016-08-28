@@ -18,7 +18,7 @@ You will get email alerts when IP addresses are blocked.
 
 Installation
 
-wget http://www.inetbase.com/scripts/ddos/install.sh
+wget https://github.com/venoodkhatuva12/D-Dos-Script/blob/master/install.sh
 
 chmod 0700 install.sh
 ./install.sh
